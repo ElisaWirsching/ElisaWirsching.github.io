@@ -1,0 +1,32 @@
+I"ë<h2>Working Papers</h2>
+<ul>
+	<li>
+		<b>Sorting for K-Street: Post-Employment Regulations and Wage Setting in Congress</b><br />
+		<i>Under Review</i><br />
+		<b>Abstract:</b> While post-employment regulations are a common tool used to slow the revolving door in government, little is known about their effectiveness and consequences. Using the 2007 Honest Leadership and Open Government Act (HLOGA), I argue that policymakers strategically adjust their behaviors to maintain lucrative career options in the lobbying industry. HLOGA prohibited staffers-turned-lobbyists who earn at least 75% of a Congress member's salary from contacting their ex-employers in Congress for one year. Using data on the complete set of congressional staff (2001-2016), I show that staffers sort below the salary threshold. Employing various panel data analyses, I also find that selecting out of the regulation increases a staffer's probability to become a lobbyist and ensures a substantial premium in revenues at the beginning of their lobbying career. These results explain why reforms of the revolving door fail and provide insights on institutional determinants of career incentives for non-elected public officials.  <br />
+		<a href="https://www.dropbox.com/s/uiipytgzmxck8p8/full_paper.pdf?dl=0"><div class="color-button">pdf</div></a>
+	</li><br />
+	
+	<li>
+		<b>Political Power of Bureaucratic Agents: Evidence from Policing in New York City</b><br />
+		<b>Abstract:</b> Theories of public bureaucracy generally describe the link between politicians and bureaucrats as a top-down relationship of principals and agents where political authorities attempt to minimize agency losses arising from information asymmetries. I deviate from this standard view and argue that politicians' dependence on bureaucratic effort for re-election purposes allows bureaucrats to exert political power over their elected principals. If bureaucrats deviate in their preferences from their principals and are organized in cohesive unions with strong tenure protections, they can collectively shirk effort to influence who their superiors are and what policies they choose. To test this theory, I use data on New York Police Department (NYPD) 911 response times together with council members' preferences on the FY2021 $1 billion cut to the NYPD's budget. Employing difference-in-differences designs, I find that municipal police reduced effort in districts of non-aligned politicians. This study informs the theoretical debate on principal-agent relationships in government and sheds light on the importance of organized political interests to explain policing in US cities.<br />
+		<a href="https://www.dropbox.com/s/atiwy8o33glggty/paper.pdf?dl=0"><div class="color-button">pdf</div></a>
+	</li><br />
+</ul>
+
+<h2>Works in Progress</h2>
+<ul>
+	<li>
+		<b>Multilingual Word Embeddings for Social Scientists: Estimation, Inference and Validation Resources for 157 Language</b><br />
+		<i>with Pedro L. Rodriguez, Arthur Spirling, and Brandon M. Stewart</i><br />
+		<b>Abstract:</b> We consider the problem of estimating high-quality word embeddings for low-resource users. This is a perennial issue for comparative politics scholars who do not have access to large corpora or pretrained representations in their chosen (typically non-English) language.  In particular, we provide a variant of \textit{\`a la carte embeddings} (ALC) embeddings for researchers who lack large training corpora, or lack computational resources, or both. These methods allow for good representations of even very rare words vital to politics (e.g. identities of minor political actors or the names of arcane procedures). We allow for the straightforward production of these embeddings and their relevant weighting matrices for some 157 languages found in the original \texttt{fastText} project.  We also provide embeddings fit to the relevant language Wikipedia corpora.  We validate these embeddings in terms of their accuracy and uncertainty.  Along with the data, free software is provided for these purposes. <br />
+	</li><br />
+
+	<li>
+		<b>Project title</b><br />
+		University, Duration<br />
+		<i>Other details such as advisor's name may go here</i><br />
+		<a href=""><div class="color-button">report</div></a><a href=""><div class="color-button">code</div></a>
+	</li><br />
+</ul>
+:ET

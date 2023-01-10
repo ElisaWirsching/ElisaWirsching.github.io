@@ -1,7 +1,7 @@
 ---
-layout: page
+title: "Research"
 permalink: /research/
-title: Research
+layout: page
 ---
 
 
@@ -18,7 +18,7 @@ title: Research
 	<li>
 		<b>Political Power of Bureaucratic Agents: Evidence from Policing in New York City</b><br>
 		<b>Abstract:</b> Research on public organizations highlights how political control of bureaucracies induces bureaucrats to act as electoral brokers for politicians. In contrast, I study the converse mechanism in professionalized bureaucracies. I argue that politicians' dependence on bureaucratic effort for re-election purposes allows politically insulated bureaucrats to exert political power over their elected principals. If bureaucrats are organized in cohesive unions with strong tenure protections and deviate in their preferences from their principals, they can collectively shirk effort to affect the electoral fortunes of politicians. To test this theory, I use data on New York Police Department (NYPD) 911 response times together with council members' preferences on the FY2021 $1 billion cut to the NYPD's budget. Employing difference-in-differences designs, I find that municipal police reduced effort in districts of non-aligned politicians. This study informs the theoretical debate on principal-agent relationships in government and sheds light on the importance of organized political interests to explain policing in US cities. <br>
-		<a href="https://www.dropbox.com/s/7xrql4y0469qx7b/paper.pdf?dl=0"><div class="color-button">pdf</div></a>
+		<a href="https://www.dropbox.com/s/jk04j0njo8em6c4/paper.pdf?dl=0"><div class="color-button">pdf</div></a>
 	</li><br>
 </ul>
 

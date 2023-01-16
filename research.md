@@ -17,7 +17,7 @@ layout: page
 	
 	<li>
 		<b>Political Power of Bureaucratic Agents: Evidence from Policing in New York City</b><br>
-		<b>Abstract:</b> Research on public organizations highlights how political control of bureaucracies induces bureaucrats to act as electoral brokers for politicians. In contrast, I study the converse mechanism in professionalized bureaucracies. I argue that politicians' dependence on bureaucratic effort for re-election purposes allows politically insulated bureaucrats to exert political power over their elected principals. If bureaucrats are organized in cohesive unions with strong tenure protections and deviate in their preferences from their principals, they can collectively shirk effort to affect the electoral fortunes of politicians. To test this theory, I use data on New York Police Department (NYPD) 911 response times together with council members' preferences on the FY2021 $1 billion cut to the NYPD's budget. Employing difference-in-differences designs, I find that municipal police reduced effort in districts of non-aligned politicians. This study informs the theoretical debate on principal-agent relationships in government and sheds light on the importance of organized political interests to explain policing in US cities. <br>
+		<b>Abstract:</b> Research on public organizations highlights how political control of bureaucracies induces bureaucrats to act as electoral brokers for politicians. In contrast, I study the converse mechanism in professionalized bureaucracies. I argue that politicians' dependence on bureaucratic effort for re-election purposes allows politically insulated bureaucrats to exert political power over their elected principals. If bureaucrats are organized in cohesive unions with strong tenure protections and deviate in their preferences from their principals, they can collectively shirk effort to affect the electoral fortunes of politicians. To test this theory, I use data on New York Police Department (NYPD) 911 response times together with council members' preferences on the FY2021 $1 billion cut to the NYPD's budget. Employing difference-in-differences and spatial regression discontinuity designs, I find that municipal police reduced effort in districts of non-aligned politicians. This study informs the theoretical debate on principal-agent relationships in government and sheds light on the importance of organized political interests to explain policing in US cities. <br>
 		<a href="https://www.dropbox.com/s/jk04j0njo8em6c4/paper.pdf?dl=0"><div class="color-button">pdf</div></a>
 	</li><br>
 </ul>
@@ -38,17 +38,7 @@ layout: page
 	<li>
 		<b>Fiscal Crisis and Gender Pay Gap in the Bureaucracy</b><br>
 		<i>with Hye Young You and Kyuwon Lee</i><br>
-		<b>Abstract:</b> How does a fiscal crisis change the gender pay gap in a bureaucracy? To answer this ques-
-tion, we exploit the sudden budget crisis in Massachusetts (MA) in 2015 and examine how
-methods that governments employ to downsize their agencies-increasing senior officials'
-discretion in setting compensation and adopting individualized negotiations-have unequal
-impacts on government employees. Using 1.4 million observations of detailed individual-
-level data about public employees in the MA state government for the period 2010-2020, we
-find that the fiscal crisis increased the gender pay gap in executive agencies by 2.4 percentage
-points. Consequently, women earned significantly less than their comparable male counter-
-parts after the fiscal crisis. We also find that there is significant variation in the gender pay
-gap: women in more senior positions and women who work in agencies with smaller shares of
-female employees (public safety and transportation) experienced the largest gender pay gap. <br>
+		<b>Abstract:</b> How does a fiscal crisis change the gender pay gap in a bureaucracy? To answer this question, we exploit the sudden budget crisis in Massachusetts (MA) in 2015 and examine how methods that governments employ to downsize their agencies - increasing senior officials' discretion in setting compensation and adopting individualized negotiations - have unequal impacts on government employees. Using 1.4 million observations of detailed individual-level data about public employees in the MA state government for the period 2010-2020, we find that the fiscal crisis increased the gender pay gap in executive agencies by 2.4 percentage points. Consequently, women earned significantly less than their comparable male counter-parts after the fiscal crisis. We also find that there is significant variation in the gender pay gap: women in more senior positions and women who work in agencies with smaller shares of female employees (public safety and transportation) experienced the largest gender pay gap. <br>
 	</li><br>
 	
 	<li>

@@ -12,7 +12,7 @@ layout: page
 		<b>Sorting for K-Street: Post-Employment Regulations and Wage Setting in Congress</b><br>
 		<i>R&R at Journal of Politics</i><br>
 		<b>Abstract:</b> While post-employment regulations are a common tool to slow the revolving door in government, little is known about their effectiveness and consequences. Using the 2007 Honest Leadership and Open Government Act (HLOGA), I argue that policymakers strategically adjust their behaviors to maintain lucrative career options in the lobbying industry. HLOGA prohibited staffers-turned-lobbyists who earn at least 75% of a Congress member's salary from contacting their ex-employers in Congress for one year. Using data on the complete set of congressional staff (2001-2016), I show that staffers sort below the salary threshold post-HLOGA. Employing various panel data analyses, I also find that selecting out of the regulation increases a staffer's probability to become a lobbyist and ensures a substantial premium in revenues at the beginning of their lobbying career. These results explain why reforms of the revolving door fail and provide insights on institutional determinants of career incentives for non-elected public officials.   <br>
-		<a href="https://www.dropbox.com/s/1ghswkvwylwhgya/full_paper.pdf?dl=0"><div class="color-button">pdf</div></a>
+		<a href="https://elisawirsching.github.io/research/sortingCongress.pdf"><div class="color-button">pdf</div></a>
 	</li><br>
 	
 	<li>

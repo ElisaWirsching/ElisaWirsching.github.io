@@ -11,7 +11,8 @@ Please contact me for syllabi or course materials.
 <ul>
   <li>
 		<b>Text as Data</b>, Graduate NYU Center for Data Science<br>
-		<i>for Prof. Arthur Spirling, Spring 2023, <a href="https://github.com/ElisaWirsching/Text-as-Data-Lab-Spring-2023">GitHub</a></i>
+		<i>for Prof. Arthur Spirling, Spring 2023</i>
+		<a href="https://github.com/ElisaWirsching/Text-as-Data-Lab-Spring-2023"><div class="color-button">GitHub</div></a>
 	</li><br>
 	
   <li>

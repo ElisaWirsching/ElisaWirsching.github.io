@@ -4,6 +4,10 @@ permalink: /teaching/
 title: Teaching
 ---
 
+Please contact me for syllabi or course materials. 
+
+## Teaching Assistant
+
 <ul>
   <li>
 		<b>Text as Data</b>, Graduate NYU Center for Data Science<br>
@@ -23,6 +27,16 @@ title: Teaching
 	<li>
 		<b>Introduction to Research Methods for Politics</b>, Undergraduate NYU Politics<br>
 		<i>for Prof. Hye Young You, Fall 2021</i>
+	</li><br>
+
+</ul>
+
+## Suggested Courses
+
+<ul>
+  <li>
+		<b>The Political Economy of Bureaucracy</b>, Graduate Seminar<br>
+		<a href="https://elisawirsching.github.io/teaching/syllabus_bureaucracy.pdf"><div class="color-button">Syllabus</div></a>
 	</li><br>
 
 </ul>

@@ -31,7 +31,7 @@ Please contact me for syllabi or course materials.
 
 </ul>
 
-## Suggested Courses
+## Planned Courses
 
 <ul>
   <li>

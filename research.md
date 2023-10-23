@@ -67,8 +67,8 @@ Regulation</b><br>
 	
 	<li>
 		<b>Daylight saving all year round? Evidence from a national experiment</b><br>
-		<i>with Cagatay Bircan, EBRD Working Paper</i><br>
-			<a href="https://www.ebrd.com/publications/working-papers/daylight-saving-all-year-round"><div class="color-button">pdf</div></a>
+		<i>with Cagatay Bircan, Energy Economics (2023)</i><br>
+			<a href="https://www.sciencedirect.com/science/article/pii/S0140988323005911?dgcid=coauthor"><div class="color-button">pdf</div></a>
 	</li><br>
 	
 	<li>

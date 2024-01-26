@@ -63,6 +63,10 @@ layout: page
 Regulation</b><br>
   <i>EBRD Working Paper</i><br>
 	<a href="https://www.ebrd.com/publications/working-papers/revolving-door"><div class="color-button">pdf</div></a>
+	<button type="color-button" class="collapsible">Abstract</button>
+  <div class="content">
+    <p>Lorem ipsum...</p>
+  </div>
 	</li><br>
 	
 	<li>
@@ -77,3 +81,20 @@ Regulation</b><br>
 		<a href="https://www.ebrd.com/sites/Satellite?c=Content&cid=1395277904408&d=&pagename=EBRD%2FContent%2FDownloadDocument"><div class="color-button">pdf</div></a>
 	</li><br>
 </ul>
+
+<script>
+var coll = document.getElementsByClassName("collapsible");
+var i;
+
+for (i = 0; i < coll.length; i++) {
+  coll[i].addEventListener("click", function() {
+    this.classList.toggle("active");
+    var content = this.nextElementSibling;
+    if (content.style.maxHeight){
+      content.style.maxHeight = null;
+    } else {
+      content.style.maxHeight = content.scrollHeight + "px";
+    } 
+  });
+}
+</script>

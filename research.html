@@ -561,7 +561,10 @@ Paper</i><br>
 <div class="color-button">
 pdf
 </div>
-</a>
+</a> <button type="color-button" class="collapsible">Abstract</button>
+<div class="content">
+<pre><code>&lt;p&gt;Lorem ipsum...&lt;/p&gt;</code></pre>
+</div>
 </li>
 <p><br></p>
 <li>
@@ -587,6 +590,22 @@ pdf
 </li>
 <br>
 </ul>
+<script>
+var coll = document.getElementsByClassName("collapsible");
+var i;
+
+for (i = 0; i < coll.length; i++) {
+  coll[i].addEventListener("click", function() {
+    this.classList.toggle("active");
+    var content = this.nextElementSibling;
+    if (content.style.maxHeight){
+      content.style.maxHeight = null;
+    } else {
+      content.style.maxHeight = content.scrollHeight + "px";
+    } 
+  });
+}
+</script>
 
 
 

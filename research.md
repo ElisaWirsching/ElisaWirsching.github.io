@@ -63,10 +63,6 @@ layout: page
 Regulation</b><br>
   <i>EBRD Working Paper</i><br>
 	<a href="https://www.ebrd.com/publications/working-papers/revolving-door"><div class="color-button">pdf</div></a>
-	<button type="color-button" class="collapsible">Abstract</button>
-  <div class="content">
-    <p>Lorem ipsum...</p>
-  </div>
 	</li><br>
 	
 	<li>

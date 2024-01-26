@@ -63,34 +63,32 @@ layout: page
 Regulation</b><br>
   <i>EBRD Working Paper</i><br>
 	<a href="https://www.ebrd.com/publications/working-papers/revolving-door"><div class="color-button">pdf</div></a>
+	<details>
+    <summary>Abstract</summary>
+    Regulatory capture of public policy by financial entities, especially via the revolving door between government and financial services, has increasingly become a subject of intense public scrutiny. This paper empirically analyses the relation between public-private career crossovers of high-ranking government officials and financial policy. Using curriculum vitae of more than 400 central bank governors and finance ministers from 32 OECD countries between 1973 and 2005, I compile a new dataset including details on officials’ professional careers before and after their tenure and data on financial regulation. Panel data analyses show that central bank governors with past experience in the financial sector deregulate significantly more than governors without a background in finance (career socialisation hypothesis). Using linear probability regressions, the results also indicate that finance ministers, especially from left-wing parties, are more likely to be hired by financial entities in the future if they please their future employers through deregulatory policies during their time in office (career concerns hypothesis). Thus, although the revolving door effects differ between government officials, this study shows that career paths and career concerns of policymakers should be taken into account when analysing financial policy outcomes. <br>
+  </details>
 	</li><br>
 	
 	<li>
 		<b>Daylight saving all year round? Evidence from a national experiment</b><br>
 		<i>with Cagatay Bircan, Energy Economics (2023)</i><br>
 			<a href="https://www.sciencedirect.com/science/article/pii/S0140988323005911?dgcid=coauthor"><div class="color-button">pdf</div></a>
+		<details>
+      <summary>Abstract</summary>
+      We study the effects of staying on daylight saving time (DST) permanently on electricity consumption, generation, and emissions. In October 2016, Turkey chose to stay on DST all year round. Employing alternative identification methods, we find a negligible overall impact on consumption. However, the policy has a strong intra-day distributional effect, increasing consumption in the early morning and reducing it in the late afternoon. This change in the load shape reduced generation by dirtier fossil fuel plants and increased it by cleaner renewable sources that can more easily satisfy peak load generation. Emissions from generation decreased as a result. A large presence of hydropower, which is a reliable provider of energy to the grid in peak times, was crucial to achieve this reduction. <br>
+  </details>
 	</li><br>
 	
 	<li>
 		<b>Skills, employment and automation</b><br>
 		<i>with Cevat Giray Aksoy, Yvonne Giesing and Nadzeya Laurentsyeva, 2018/19 EBRD Transition Report</i><br>
 		<a href="https://www.ebrd.com/sites/Satellite?c=Content&cid=1395277904408&d=&pagename=EBRD%2FContent%2FDownloadDocument"><div class="color-button">pdf</div></a>
+		<details>
+      <summary>Abstract</summary>
+      Over the past 25 years, the economies of the EBRD regions have created an average of 1.5 million jobs per year. However, the nature of work is changing, with automation on the rise. Many economies where the EBRD invests have experienced deindustrialisation, as well as the polarisation of employment – a decline in the number of medium-skilled jobs. While technological change is resulting in increased demand for skilled labour, many of these economies face significant gaps in terms of the quality of education, as well as substantial emigration by skilled workers. In the short term, the emigration of skilled workers reduces the productivity of fi rms in the country of origin. In the longer term, however, emigration has boosted the transfer of knowledge to the EBRD regions and supported innovation. <br>
+  </details>
 	</li><br>
 </ul>
 
-<script>
-var coll = document.getElementsByClassName("collapsible");
-var i;
 
-for (i = 0; i < coll.length; i++) {
-  coll[i].addEventListener("click", function() {
-    this.classList.toggle("active");
-    var content = this.nextElementSibling;
-    if (content.style.maxHeight){
-      content.style.maxHeight = null;
-    } else {
-      content.style.maxHeight = content.scrollHeight + "px";
-    } 
-  });
-}
-</script>
+

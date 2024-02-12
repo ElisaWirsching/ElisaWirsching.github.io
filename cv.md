@@ -6,5 +6,5 @@ permalink: /cv/
 
 You can download my curriculum vitae <a href="https://elisawirsching.github.io/files/CV_ElisaWirsching.pdf">here</a>.
 
-<embed src="{{ site.baseurl }}/files/CV_ElisaWirsching.pdf" width="600" height="700" type='application/pdf'> 
+<embed src="https://elisawirsching.github.io/files/CV_ElisaWirsching.pdf" width="600" height="700" type='application/pdf'> 
 

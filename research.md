@@ -43,7 +43,7 @@ layout: page
 		<b>Bureaucratic Sabotage and Policy Inefficiency</b><br>
 		<i>with <a href="https://sites.google.com/view/kun-heo/home">Kun Heo</a></i><br>
 		<b>Abstract:</b> Poor public service provision creates electoral vulnerability for politicians. Under what conditions can bureaucrats exploit this to avoid reforms they dislike? We develop a model of political accountability in which a politician must decide whether to enact a reform of uncertain value, and a voter evaluates the incumbent based on government service quality, which anti-reform bureaucrats can sabotage. We find that bureaucratic sabotage leads to two types of policy inefficiency depending on voters' perceptions of the reform's merit. Sabotage either deters politicians from enacting beneficial reforms due to electoral risks (under-reform) or prompts them to implement excessive reforms by providing bureaucrats as a scapegoat (over-reform). This result arises because obfuscation by sabotage affects voter inference differently based on their prior beliefs. <br>
-		<a href="https://elisawirsching.github.io/bureaucraticsabotage.pdf"><div class="color-button">pdf</div></a>
+		<a href="https://elisawirsching.github.io/research/bureaucraticsabotage.pdf"><div class="color-button">pdf</div></a>
 	</li><br>
 	
 	<li>

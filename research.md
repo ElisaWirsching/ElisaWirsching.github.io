@@ -4,30 +4,37 @@ permalink: /research/
 layout: page
 ---
 
-
-
-<h2>Working Papers</h2>
+<h2>Publications</h2>
 <ul>
 	<li>
 		<b>Sorting for K-Street: Post-Employment Regulations and Wage Setting in Congress</b><br>
-		<i>Conditionally Accepted at Journal of Politics</i><br>
-		<b>Abstract:</b> While post-employment regulations are a common tool to slow the revolving door in government, little is known about their effectiveness and consequences. Using the 2007 Honest Leadership and Open Government Act (HLOGA), I argue that policymakers strategically adjust their behaviors to maintain lucrative career options in the lobbying industry. HLOGA prohibited staffers-turned-lobbyists who earn at least 75% of a Congress member's salary from contacting their ex-employers in Congress for one year. Using data on the complete set of congressional staff (2001-2016), I show that staffers sort below the salary threshold post-HLOGA. Employing various panel data analyses, I also find that selecting out of the regulation increases a staffer's probability to become a lobbyist and ensures a substantial premium in revenues at the beginning of their lobbying career. These results explain why reforms of the revolving door fail and provide insights on institutional determinants of career incentives for non-elected public officials.   <br>
-		<a href="https://elisawirsching.github.io/research/sortingCongress.pdf"><div class="color-button">pdf</div></a>
-	</li><br>
-	
-	<li>
-		<b>Political Power of Bureaucratic Agents: Evidence from Policing in New York City</b><br>
-			<i>Job Market Paper</i><br>
-		<b>Abstract:</b> To what extent can bureaucrats manipulate public service provision for explicitly political ends? A growing body of work highlights the immense ability of bureaucrats to influence governments through campaign contributions, endorsements, collective bargaining, and organized election turnout. I explore a more fundamental mechanism of bureaucratic influence: bureaucrats strategically shirking responsibilities. Politicians depend on bureaucrats to achieve policy goals. This gives the latter leverage over the former. If bureaucrats deviate in their preferences from politicians and are organized in cohesive unions with strong tenure protections, they can collectively reduce effort to exert political pressure. I use data on New York Police Department (NYPD) 911 response times together with council members' preferences on the FY2021 $1 billion cut to the NYPD's budget. Employing difference-in-differences and spatial difference-in-discontinuities designs, I find that police reduced effort in districts of non-aligned politicians by slowing response times. This study informs the theoretical debate on principal-agent relationships in government and highlights the importance of organized political interests to explain policing in US cities.  <br>
-		<a href="https://elisawirsching.github.io/research/policeresistance.pdf"><div class="color-button">pdf</div></a>
+		<i>Forthcoming at Journal of Politics</i><br>
+		<details>
+    <summary>Abstract</summary>
+    While post-employment regulations are a common tool to slow the revolving door in government, little is known about their effectiveness and consequences. Using the 2007 Honest Leadership and Open Government Act (HLOGA), I argue that policymakers strategically adjust their behaviors to maintain lucrative career options in the lobbying industry. HLOGA prohibited staffers-turned-lobbyists who earn at least 75% of a Congress member's salary from contacting their ex-employers in Congress for one year. Using data on the complete set of congressional staff (2001-2016), I show that staffers sort below the salary threshold post-HLOGA. Employing various panel data analyses, I also find that selecting out of the regulation increases a staffer's probability to become a lobbyist and ensures a substantial premium in revenues at the beginning of their lobbying career. These results explain why reforms of the revolving door fail and provide insights on institutional determinants of career incentives for non-elected public officials.  <br>
+  </details>
+		<a href="https://elisawirsching.github.io/research/sortingCongress.pdf"><div class="color-button">pdf</div></a><a href="https://dataverse.harvard.edu/dataset.xhtml?persistentId=doi:10.7910/DVN/6LCLMW"><div class="color-button">replication</div></a>
 	</li><br>
 	
 	<li>
 		<b>Multilanguage Word Embeddings for Social Scientists: Estimation, Inference and Validation Resources for 157 Languages</b><br>
 		<i>with <a href="http://prodriguezsosa.com/">Pedro L. Rodriguez</a>, <a href="https://arthurspirling.org/">Arthur Spirling</a>, and <a href="https://bstewart.scholar.princeton.edu/">Brandon M. Stewart</a></i><br>
 		<i>Conditionally Accepted at Political Analysis</i><br>
-		<b>Abstract:</b> Word embeddings are now a vital resource for social science research. Unfortunately, it can be difficult to obtain high quality embeddings for non-English languages, and it may be computational expensive to do so.  In addition, social scientists typically want to make statistical comparisons and do hypothesis tests on embeddings, but this is non-trivial with current approaches. We provide three new data resources designed to ameliorate the union of these issues: (1) a new version of <tt>fastText</tt> model embeddings, fit to Wikipedia corpora; (2) a multi-language "a la carte" (ALC) embedding version of the <tt>fastText</tt> model fit to Wikipedia corpora; (3) a multi-language ALC embedding version of the well-known <tt>GloVe</tt> model fit to Wikipedia corpora. These materials are aimed at "low resource" users who lack access to large corpora in their language of interest, or  who lack access to the computational resources required to produce high-quality vector representations. We make these resources available for 30 languages, along with a code pipeline for another 127 languages available from Wikipedia corpora.  We provide extensive validation of the materials, via reconstruction tests and some translation proofs-of-concept.  We also conduct and report on human crowdworker tests, for our embeddings for Arabic, French, (traditional, Mandarin) Chinese, Japanese, Korean, Russian and  Spanish.<br>
-		<a href="https://alcembeddings.org/assets/img/RSSW_paper_january_2024.pdf"><div class="color-button">pdf</div></a> <a href="http://alcembeddings.org/index.html"><div class="color-button">resources</div></a>
+		<details>
+    <summary>Abstract</summary>
+    Word embeddings are now a vital resource for social science research. Unfortunately, it can be difficult to obtain high quality embeddings for non-English languages, and it may be computational expensive to do so.  In addition, social scientists typically want to make statistical comparisons and do hypothesis tests on embeddings, but this is non-trivial with current approaches. We provide three new data resources designed to ameliorate the union of these issues: (1) a new version of <tt>fastText</tt> model embeddings, fit to Wikipedia corpora; (2) a multi-language "a la carte" (ALC) embedding version of the <tt>fastText</tt> model fit to Wikipedia corpora; (3) a multi-language ALC embedding version of the well-known <tt>GloVe</tt> model fit to Wikipedia corpora. These materials are aimed at "low resource" users who lack access to large corpora in their language of interest, or  who lack access to the computational resources required to produce high-quality vector representations. We make these resources available for 30 languages, along with a code pipeline for another 127 languages available from Wikipedia corpora.  We provide extensive validation of the materials, via reconstruction tests and some translation proofs-of-concept.  We also conduct and report on human crowdworker tests, for our embeddings for Arabic, French, (traditional, Mandarin) Chinese, Japanese, Korean, Russian and  Spanish.  <br>
+  </details>
+		<a href="https://alcembeddings.org/assets/img/RSSW_paper_january_2024.pdf"><div class="color-button">pdf</div></a> <a href="http://alcembeddings.org/index.html"><div class="color-button">resources</div></a><a href="https://codeocean.com/capsule/1866319/tree"><div class="color-button">replication</div></a>
+	</li><br>
+</ul>
+
+<h2>Working Papers</h2>
+<ul>
+	<li>
+		<b>Political Power of Bureaucratic Agents: Evidence from Policing in New York City</b><br>
+			<i>Job Market Paper</i><br>
+		<b>Abstract:</b> To what extent can bureaucrats manipulate public service provision for explicitly political ends? A growing body of work highlights the immense ability of bureaucrats to influence governments through campaign contributions, endorsements, collective bargaining, and organized election turnout. I explore a more fundamental mechanism of bureaucratic influence: bureaucrats strategically shirking responsibilities. Politicians depend on bureaucrats to achieve policy goals. This gives the latter leverage over the former. If bureaucrats deviate in their preferences from politicians and are organized in cohesive unions with strong tenure protections, they can collectively reduce effort to exert political pressure. I use data on New York Police Department (NYPD) 911 response times together with council members' preferences on the FY2021 $1 billion cut to the NYPD's budget. Employing difference-in-differences and spatial difference-in-discontinuities designs, I find that police reduced effort in districts of non-aligned politicians by slowing response times. This study informs the theoretical debate on principal-agent relationships in government and highlights the importance of organized political interests to explain policing in US cities.  <br>
+		<a href="https://elisawirsching.github.io/research/policeresistance.pdf"><div class="color-button">pdf</div></a>
 	</li><br>
 	
 	<li>

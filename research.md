@@ -57,6 +57,11 @@ layout: page
 		<i>with <a href="https://roxannerahnama.com/">Roxanne Rahnama</a></i><br>
 	</li><br>
 	
+	<li>
+		<b>The Political Consequences of Police Slowdowns</b><br>
+		<i>with <a href="https://www.arvindkrish.com/">Arvind Krishnamurthy</a> and <a href="https://www.dviryogev.com/">Dvir Yogev</a></i><br>
+	</li><br>
+	
 </ul>
 
 

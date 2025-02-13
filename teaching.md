@@ -17,7 +17,7 @@ Please contact me for syllabi or course materials.
 	
   <li>
 		<b>Quantitative Methods III (MLE, Bayesian statistics, non-parametric methods)</b>, Graduate NYU Politics<br>
-		<i>for Prof. Tara Slough, Fall 2022</i>
+		<i>for Prof. Tara Slough, Fall 2022 & Spring 2024</i>
 	</li><br>
 	
 	<li>

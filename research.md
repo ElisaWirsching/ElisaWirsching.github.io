@@ -8,7 +8,7 @@ layout: page
 <ul>
 	<li>
 		<b>Sorting for K-Street: Post-Employment Regulations and Wage Setting in Congress</b><br>
-		<i>Forthcoming at Journal of Politics</i><br>
+		<i>Journal of Politics, 2025</i><br>
 		<details>
     <summary>Abstract</summary>
     While post-employment regulations are a common tool to slow the revolving door in government, little is known about their effectiveness and consequences. Using the 2007 Honest Leadership and Open Government Act (HLOGA), I argue that policymakers strategically adjust their behaviors to maintain lucrative career options in the lobbying industry. HLOGA prohibited staffers-turned-lobbyists who earn at least 75% of a Congress member's salary from contacting their ex-employers in Congress for one year. Using data on the complete set of congressional staff (2001-2016), I show that staffers sort below the salary threshold post-HLOGA. Employing various panel data analyses, I also find that selecting out of the regulation increases a staffer's probability to become a lobbyist and ensures a substantial premium in revenues at the beginning of their lobbying career. These results explain why reforms of the revolving door fail and provide insights on institutional determinants of career incentives for non-elected public officials.  <br>
@@ -19,7 +19,7 @@ layout: page
 	<li>
 		<b>Multilanguage Word Embeddings for Social Scientists: Estimation, Inference and Validation Resources for 157 Languages</b><br>
 		<i>with <a href="http://prodriguezsosa.com/">Pedro L. Rodriguez</a>, <a href="https://arthurspirling.org/">Arthur Spirling</a>, and <a href="https://bstewart.scholar.princeton.edu/">Brandon M. Stewart</a></i><br>
-		<i>Forthcoming at Political Analysis</i><br>
+		<i>Political Analysis, 2025, 33(2):156-163</i><br>
 		<i style="color: #ac4142;">Winner of the 2022 PolMeth Best Poster Award</i><br>
 		<details>
     <summary>Abstract</summary>
@@ -41,6 +41,7 @@ layout: page
 	<li>
 		<b>Bureaucratic Resistance and Policy Inefficiency</b><br>
 		<i>with <a href="https://sites.google.com/view/kun-heo/home">Kun Heo</a></i><br>
+		<i>Under Review</i><br>
 		<b>Abstract:</b> Poor public service provision creates an electoral vulnerability for incumbent politicians.Under what conditions can bureaucrats exploit this to avoid reforms they dislike? We develop a model of electoral politics in which a politician must decide whether to enact a reform of uncertain value, and a voter evaluates the incumbent’s reform based on post-reform government service quality, which anti-reform bureaucrats can undermine. Bureaucratic resistance for political leverage is most likely when voters are torn between the reform and the status quo. Resistance lowers the informational value of government service for voters and can lead to policy distortions and accountability loss. When reform is moderately popular, resistance prevents beneficial reforms due to electoral risks and induces ineffective reforms by providing bureaucrats as scapegoats. Our model identifies a distinct mechanism of bureaucratic power and its implications for policy and accountability. <br>
 		<a href="https://elisawirsching.github.io/research/bureaucraticsabotage.pdf"><div class="color-button">pdf</div></a>
 	</li><br>

@@ -8,7 +8,7 @@ layout: page
 <ul>
 	<li>
 		<b>Sorting for K-Street: Post-Employment Regulations and Wage Setting in Congress</b><br>
-		<i>Journal of Politics, 2025</i><br>
+		<i>Journal of Politics, 2025, 87(2):664-679</i><br>
 		<details>
     <summary>Abstract</summary>
     While post-employment regulations are a common tool to slow the revolving door in government, little is known about their effectiveness and consequences. Using the 2007 Honest Leadership and Open Government Act (HLOGA), I argue that policymakers strategically adjust their behaviors to maintain lucrative career options in the lobbying industry. HLOGA prohibited staffers-turned-lobbyists who earn at least 75% of a Congress member's salary from contacting their ex-employers in Congress for one year. Using data on the complete set of congressional staff (2001-2016), I show that staffers sort below the salary threshold post-HLOGA. Employing various panel data analyses, I also find that selecting out of the regulation increases a staffer's probability to become a lobbyist and ensures a substantial premium in revenues at the beginning of their lobbying career. These results explain why reforms of the revolving door fail and provide insights on institutional determinants of career incentives for non-elected public officials.  <br>
@@ -20,7 +20,7 @@ layout: page
 		<b>Multilanguage Word Embeddings for Social Scientists: Estimation, Inference and Validation Resources for 157 Languages</b><br>
 		<i>with <a href="http://prodriguezsosa.com/">Pedro L. Rodriguez</a>, <a href="https://arthurspirling.org/">Arthur Spirling</a>, and <a href="https://bstewart.scholar.princeton.edu/">Brandon M. Stewart</a></i><br>
 		<i>Political Analysis, 2025, 33(2):156-163</i><br>
-		<i style="color: #ac4142;">Winner of the 2022 PolMeth Best Poster Award</i><br>
+		<i style="color: #ac4142;">2022 PolMeth Best Poster Award</i><br>
 		<details>
     <summary>Abstract</summary>
     Word embeddings are now a vital resource for social science research. Unfortunately, it can be difficult to obtain high quality embeddings for non-English languages, and it may be computational expensive to do so.  In addition, social scientists typically want to make statistical comparisons and do hypothesis tests on embeddings, but this is non-trivial with current approaches. We provide three new data resources designed to ameliorate the union of these issues: (1) a new version of <tt>fastText</tt> model embeddings, fit to Wikipedia corpora; (2) a multi-language "a la carte" (ALC) embedding version of the <tt>fastText</tt> model fit to Wikipedia corpora; (3) a multi-language ALC embedding version of the well-known <tt>GloVe</tt> model fit to Wikipedia corpora. These materials are aimed at "low resource" users who lack access to large corpora in their language of interest, or  who lack access to the computational resources required to produce high-quality vector representations. We make these resources available for 30 languages, along with a code pipeline for another 127 languages available from Wikipedia corpora.  We provide extensive validation of the materials, via reconstruction tests and some translation proofs-of-concept.  We also conduct and report on human crowdworker tests, for our embeddings for Arabic, French, (traditional, Mandarin) Chinese, Japanese, Korean, Russian and  Spanish.  <br>
@@ -48,7 +48,7 @@ layout: page
 	
 	<li>
 		<b>Barriers to Representation: Selection Processes and Political Diversity in US Urban Bureaucracy</b><br>
-		<i style="color: #ac4142;">Winner of the 2024 Best Paper Award, APSA Urban and Local Politics Section</i><br>
+		<i style="color: #ac4142;">2024 Best Paper Award, APSA Urban and Local Politics Section</i><br>
 		<b>Abstract:</b> A rich body of research emphasizes the importance of a representative bureaucracy for public service provision, and reveals significant gaps in the representation of partisan and racial groups in street-level bureaucracies. What drives such misrepresentation across and within agencies in professionalized local bureaucracies? Using a unique dataset that tracks the characteristics and career trajectories of over 300,000 bureaucrats in New York City, this study presents three key findings. First, there is notable sorting across agencies, with the police, fire, and sanitation departments exhibiting a strong Republican, white, and male predominance. Second, focusing specifically on recruitment at the NYPD, I find that despite minimal disparities in both representation and qualification among exam-takers, Republican and White candidates are more likely to get hired. Counterfactual analyses indicate that equalizing hiring rates across demographic groups could increase the recruitment of underrepresented groups by up to 57%. Third, once hired, Republican and White officers are also more likely to be promoted, receive more departmental awards, and enjoy longer tenures compared to their non-White and Democratic counterparts. By offering new evidence on the determinants and institutional context of bureaucratic representation, this study calls for a more nuanced understanding of how and when it impacts governance outcomes. <br>
 		<a href="https://elisawirsching.github.io/research/barrierstorepresentation.pdf"><div class="color-button">pdf</div></a>
 	</li><br>
@@ -58,7 +58,7 @@ layout: page
 <ul>
 	<li>
 		<b>State Coercion and the Political Mobilization of US Teachers</b><br>
-		<i>with <a href="https://roxannerahnama.com/">Roxanne Rahnama</a></i><br>
+		<i>with <a href="https://roxannerahnama.com/">Roxanne Rahnama</a> and <a href="https://tylersimko.com/">Tyler Simko</a></i><br>
 	</li><br>
 	
 	<li>

@@ -27,17 +27,17 @@ layout: page
   </details>
 		<a href="https://www.cambridge.org/core/journals/political-analysis/article/multilanguage-word-embeddings-for-social-scientists-estimation-inference-and-validation-resources-for-157-languages/F5DE16FA784CA81481150715967BD9FC"><div class="color-button">article</div></a><a href="https://alcembeddings.org/assets/img/SI_WRSS_MultilangWordEmbeddings.pdf"><div class="color-button">appendix</div></a><a href="http://alcembeddings.org/index.html"><div class="color-button">resources</div></a><a href="https://codeocean.com/capsule/4082319/tree/v3"><div class="color-button">replication</div></a>
 	</li><br>
+	
+	<li>
+		<b>Political Power of Bureaucratic Agents: Evidence from Policing in New York City</b><br>
+		<i>Conditionally accepted at Journal of Politics</i><br>
+		<b>Abstract:</b> To what extent can bureaucrats manipulate public service provision for explicitly political ends? A growing body of work highlights the immense ability of bureaucrats to influence governments through campaign contributions, endorsements, collective bargaining, and organized election turnout. I explore a more fundamental mechanism of bureaucratic influence: bureaucrats strategically shirking responsibilities. Politicians depend on bureaucrats to achieve policy goals. This gives the latter leverage over the former. If bureaucrats deviate in their preferences from politicians and are organized in cohesive unions with strong tenure protections, they can collectively reduce effort to exert political pressure. I use data on New York Police Department (NYPD) 911 response times together with council members' preferences on the FY2021 $1 billion cut to the NYPD's budget. Employing difference-in-differences and spatial difference-in-discontinuities designs, I find that police reduced effort in districts of non-aligned politicians by slowing response times. This study informs the theoretical debate on principal-agent relationships in government and highlights the importance of organized political interests to explain policing in US cities.  <br>
+		<a href="https://elisawirsching.github.io/research/policeresistance.pdf"><div class="color-button">pdf</div></a>
+	</li><br>
 </ul>
 
 <h2>Working Papers</h2>
 <ul>
-	<li>
-		<b>Political Power of Bureaucratic Agents: Evidence from Policing in New York City</b><br>
-		<i>R&R at Journal of Politics</i><br>
-		<b>Abstract:</b> To what extent can bureaucrats manipulate public service provision for explicitly political ends? A growing body of work highlights the immense ability of bureaucrats to influence governments through campaign contributions, endorsements, collective bargaining, and organized election turnout. I explore a more fundamental mechanism of bureaucratic influence: bureaucrats strategically shirking responsibilities. Politicians depend on bureaucrats to achieve policy goals. This gives the latter leverage over the former. If bureaucrats deviate in their preferences from politicians and are organized in cohesive unions with strong tenure protections, they can collectively reduce effort to exert political pressure. I use data on New York Police Department (NYPD) 911 response times together with council members' preferences on the FY2021 $1 billion cut to the NYPD's budget. Employing difference-in-differences and spatial difference-in-discontinuities designs, I find that police reduced effort in districts of non-aligned politicians by slowing response times. This study informs the theoretical debate on principal-agent relationships in government and highlights the importance of organized political interests to explain policing in US cities.  <br>
-		<a href="https://elisawirsching.github.io/research/policeresistance.pdf"><div class="color-button">pdf</div></a>
-	</li><br>
-	
 	<li>
 		<b>Bureaucratic Resistance and Policy Inefficiency</b><br>
 		<i>with <a href="https://sites.google.com/view/kun-heo/home">Kun Heo</a></i><br>

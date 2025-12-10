@@ -8,7 +8,7 @@ layout: page
 <ul>
 	<li>
 		<b>Sorting for K-Street: Post-Employment Regulations and Wage Setting in Congress</b><br>
-		<i>Journal of Politics, 2025, 87(2):664-679</i><br>
+		<i>The Journal of Politics, 2025, 87(2):664-679</i><br>
 		<details>
     <summary>Abstract</summary>
     While post-employment regulations are a common tool to slow the revolving door in government, little is known about their effectiveness and consequences. Using the 2007 Honest Leadership and Open Government Act (HLOGA), I argue that policymakers strategically adjust their behaviors to maintain lucrative career options in the lobbying industry. HLOGA prohibited staffers-turned-lobbyists who earn at least 75% of a Congress member's salary from contacting their ex-employers in Congress for one year. Using data on the complete set of congressional staff (2001-2016), I show that staffers sort below the salary threshold post-HLOGA. Employing various panel data analyses, I also find that selecting out of the regulation increases a staffer's probability to become a lobbyist and ensures a substantial premium in revenues at the beginning of their lobbying career. These results explain why reforms of the revolving door fail and provide insights on institutional determinants of career incentives for non-elected public officials.  <br>
@@ -30,25 +30,28 @@ layout: page
 	
 	<li>
 		<b>Political Power of Bureaucratic Agents: Evidence from Policing in New York City</b><br>
-		<i>Conditionally accepted at Journal of Politics</i><br>
+		<i>Conditionally accepted at the Journal of Politics</i><br>
 		<details>
     <summary>Abstract</summary>
     To what extent can bureaucrats manipulate public service provision for explicitly political ends? A growing body of work highlights the immense ability of bureaucrats to influence governments through campaign contributions, endorsements, collective bargaining, and organized election turnout. I explore a more fundamental mechanism of bureaucratic influence: bureaucrats strategically shirking responsibilities. Politicians depend on bureaucrats to achieve policy goals. This gives the latter leverage over the former. If bureaucrats deviate in their preferences from politicians and are organized in cohesive unions with strong tenure protections, they can collectively reduce effort to exert political pressure. I use data on New York Police Department (NYPD) 911 response times together with council members' preferences on the FY2021 $1 billion cut to the NYPD's budget. Employing difference-in-differences and spatial difference-in-discontinuities designs, I find that police reduced effort in districts of non-aligned politicians by slowing response times. This study informs the theoretical debate on principal-agent relationships in government and highlights the importance of organized political interests to explain policing in US cities.  <br>
     </details>
 		<a href="https://elisawirsching.github.io/research/policeresistance.pdf"><div class="color-button">pdf</div></a>
 	</li><br>
+	
+	<li>
+		<b>Bureaucratic Resistance and Policy Inefficiency</b><br>
+		<i>with <a href="https://sites.google.com/view/kun-heo/home">Kun Heo</a></i><br>
+		<i>Conditionally accepted at the American Political Science Review</i><br>
+		<details>
+    <summary>Abstract</summary>
+		Poor public service provision creates an electoral vulnerability for incumbent politicians.Under what conditions can bureaucrats exploit this to avoid reforms they dislike? We develop a model of electoral politics in which a politician must decide whether to enact a reform of uncertain value, and a voter evaluates the incumbent’s reform based on post-reform government service quality, which anti-reform bureaucrats can undermine. Bureaucratic resistance for political leverage is most likely when voters are torn between the reform and the status quo. Resistance lowers the informational value of government service for voters and can lead to policy distortions and accountability loss. When reform is moderately popular, resistance prevents beneficial reforms due to electoral risks and induces ineffective reforms by providing bureaucrats as scapegoats. Our model identifies a distinct mechanism of bureaucratic power and its implications for policy and accountability. <br>
+		  </details>
+		<a href="https://elisawirsching.github.io/research/bureaucraticsabotage.pdf"><div class="color-button">pdf</div></a>
+	</li><br>
 </ul>
 
 <h2>Working Papers</h2>
 <ul>
-	<li>
-		<b>Bureaucratic Resistance and Policy Inefficiency</b><br>
-		<i>with <a href="https://sites.google.com/view/kun-heo/home">Kun Heo</a></i><br>
-		<i>R&R at American Political Science Review</i><br>
-		<b>Abstract:</b> Poor public service provision creates an electoral vulnerability for incumbent politicians.Under what conditions can bureaucrats exploit this to avoid reforms they dislike? We develop a model of electoral politics in which a politician must decide whether to enact a reform of uncertain value, and a voter evaluates the incumbent’s reform based on post-reform government service quality, which anti-reform bureaucrats can undermine. Bureaucratic resistance for political leverage is most likely when voters are torn between the reform and the status quo. Resistance lowers the informational value of government service for voters and can lead to policy distortions and accountability loss. When reform is moderately popular, resistance prevents beneficial reforms due to electoral risks and induces ineffective reforms by providing bureaucrats as scapegoats. Our model identifies a distinct mechanism of bureaucratic power and its implications for policy and accountability. <br>
-		<a href="https://elisawirsching.github.io/research/bureaucraticsabotage.pdf"><div class="color-button">pdf</div></a>
-	</li><br>
-	
 	<li>
 		<b>Barriers to Representation: Selection Processes and Political Diversity in US Urban Bureaucracy</b><br>
 		<i style="color: #ac4142;">2024 Best Paper Award, APSA Urban and Local Politics Section</i><br>

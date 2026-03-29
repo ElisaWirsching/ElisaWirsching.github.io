@@ -6,7 +6,17 @@ title: Teaching
 
 Please contact me for syllabi or course materials. 
 
-## Teaching Assistant
+## LSE
+
+<ul>
+  <li>
+		<b>Approaches and Issues in Public Policy and Administration</b> (GV4E9)<br>
+		<i>Course Convenor: Prof. Daniel Berliner</i>
+	</li><br>
+
+</ul>
+
+## NYU (Teaching Assistant)
 
 <ul>
   <li>

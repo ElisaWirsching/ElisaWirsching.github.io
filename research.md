@@ -29,25 +29,26 @@ layout: page
 	</li><br>
 	
 	<li>
+		<b>Bureaucratic Resistance and Policy Inefficiency</b><br>
+		<i>with <a href="https://sites.google.com/view/kun-heo/home">Kun Heo</a></i><br>
+		<i>Accepted at the American Political Science Review</i><br>
+		<details>
+    <summary>Abstract</summary> 
+    Poor public service provision creates an electoral vulnerability for incumbent politicians. Under what conditions can bureaucrats exploit this to avoid reforms they dislike? We develop a model of electoral politics in which a politician must decide whether to enact a reform of uncertain value, and a voter evaluates the incumbent’s reform based on post-reform government service quality, which anti-reform bureaucrats can undermine. Bureaucratic resistance for political leverage is most likely when voters are torn between the reform and the status quo. Resistance lowers the informational value of government service for voters and can lead to policy distortions and accountability loss. When reform is moderately popular, resistance prevents beneficial reforms due to electoral risks and induces ineffective reforms by providing bureaucrats as scapegoats. Our model identifies a distinct mechanism of bureaucratic power and its implications for policy and accountability. <br>
+	</details>
+		<a href="https://elisawirsching.github.io/research/resistance_inefficiency.pdf"><div class="color-button">article</div></a><a href="https://elisawirsching.github.io/research/resistance_inefficiency_SI.pdf"><div class="color-button">appendix</div></a>
+	</li><br>
+	
+	<li>
 		<b>Political Power of Bureaucratic Agents: Evidence from Policing in New York City</b><br>
 		<i>Conditionally accepted at the Journal of Politics</i><br>
 		<details>
     <summary>Abstract</summary>
     To what extent can bureaucrats manipulate public service provision for explicitly political ends? A growing body of work highlights the immense ability of bureaucrats to influence governments through campaign contributions, endorsements, collective bargaining, and organized election turnout. I explore a more fundamental mechanism of bureaucratic influence: bureaucrats strategically shirking responsibilities. Politicians depend on bureaucrats to achieve policy goals. This gives the latter leverage over the former. If bureaucrats deviate in their preferences from politicians and are organized in cohesive unions with strong tenure protections, they can collectively reduce effort to exert political pressure. I use data on New York Police Department (NYPD) 911 response times together with council members' preferences on the FY2021 $1 billion cut to the NYPD's budget. Employing difference-in-differences and spatial difference-in-discontinuities designs, I find that police reduced effort in districts of non-aligned politicians by slowing response times. This study informs the theoretical debate on principal-agent relationships in government and highlights the importance of organized political interests to explain policing in US cities.  <br>
     </details>
-		<a href="https://elisawirsching.github.io/research/policeresistance.pdf"><div class="color-button">pdf</div></a>
-	</li><br>
-	
-	<li>
-		<b>Bureaucratic Resistance and Policy Inefficiency</b><br>
-		<i>with <a href="https://sites.google.com/view/kun-heo/home">Kun Heo</a></i><br>
-		<i>Conditionally accepted at the American Political Science Review</i><br>
-		<details>
-    <summary>Abstract</summary>
-		Poor public service provision creates an electoral vulnerability for incumbent politicians.Under what conditions can bureaucrats exploit this to avoid reforms they dislike? We develop a model of electoral politics in which a politician must decide whether to enact a reform of uncertain value, and a voter evaluates the incumbent’s reform based on post-reform government service quality, which anti-reform bureaucrats can undermine. Bureaucratic resistance for political leverage is most likely when voters are torn between the reform and the status quo. Resistance lowers the informational value of government service for voters and can lead to policy distortions and accountability loss. When reform is moderately popular, resistance prevents beneficial reforms due to electoral risks and induces ineffective reforms by providing bureaucrats as scapegoats. Our model identifies a distinct mechanism of bureaucratic power and its implications for policy and accountability. <br>
-		  </details>
-		<a href="https://elisawirsching.github.io/research/bureaucraticsabotage.pdf"><div class="color-button">pdf</div></a>
-	</li><br>
+		<a href="https://elisawirsching.github.io/research/policeresistance.pdf"><div class="color-button">article</div></a><a href="https://elisawirsching.github.io/research/policeresistance_SI.pdf"><div class="color-button">appendix</div></a><a href="https://dataverse.harvard.edu/dataset.xhtml?persistentId=doi:10.7910/DVN/7HO1HR"><div class="color-button">replication</div></a>
+		</li><br>
+
 </ul>
 
 <h2>Working Papers</h2>

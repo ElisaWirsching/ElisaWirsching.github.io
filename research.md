@@ -77,7 +77,7 @@ layout: page
 
 
 
-
+<!--
 <h2>Pre-PhD</h2>
 <ul>
 	<li>
@@ -111,6 +111,6 @@ Regulation</b><br>
   </details>
 	</li><br>
 </ul>
-
+-->
 
 

@@ -31,12 +31,12 @@ layout: page
 	<li>
 		<b>Bureaucratic Resistance and Policy Inefficiency</b><br>
 		<i>with <a href="https://sites.google.com/view/kun-heo/home">Kun Heo</a></i><br>
-		<i>Accepted at the American Political Science Review</i><br>
+		<i>American Political Science Review, 2026</i><br>
 		<details>
     <summary>Abstract</summary> 
     Poor public service provision creates an electoral vulnerability for incumbent politicians. Under what conditions can bureaucrats exploit this to avoid reforms they dislike? We develop a model of electoral politics in which a politician must decide whether to enact a reform of uncertain value, and a voter evaluates the incumbent’s reform based on post-reform government service quality, which anti-reform bureaucrats can undermine. Bureaucratic resistance for political leverage is most likely when voters are torn between the reform and the status quo. Resistance lowers the informational value of government service for voters and can lead to policy distortions and accountability loss. When reform is moderately popular, resistance prevents beneficial reforms due to electoral risks and induces ineffective reforms by providing bureaucrats as scapegoats. Our model identifies a distinct mechanism of bureaucratic power and its implications for policy and accountability. <br>
 	</details>
-		<a href="https://elisawirsching.github.io/research/resistance_inefficiency.pdf"><div class="color-button">article</div></a><a href="https://elisawirsching.github.io/research/resistance_inefficiency_SI.pdf"><div class="color-button">appendix</div></a>
+		<a href="https://www.cambridge.org/core/journals/american-political-science-review/article/bureaucratic-resistance-and-policy-inefficiency/54173A69645DE1B124A14219471A0B65"><div class="color-button">article</div></a><a href="https://elisawirsching.github.io/research/resistance_inefficiency_SI.pdf"><div class="color-button">appendix</div></a>
 	</li><br>
 	
 	<li>

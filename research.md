@@ -107,7 +107,7 @@ pipeline, creating anticipatory political costs for both voters and policymakers
 		<details>
     <summary>Abstract</summary>
     How do cultural conflicts reshape the composition of the institutions they target? We argue that culturally conflictual policies threaten bureaucrats' public sector motivation and shape employment patterns through two channels: how a policy constrains an employee's discretion, and whether the ideological direction of the policy aligns with the employee's own values. We test our argument by collecting administrative roster data on 2.9 million public school employees across 12 states. We link each employee to a contentious policy adoption in their school district, and identify how each policy impacts their individual employment choices. Using a matched triple difference-in-differences design, we find that school district bans on the instruction of Critical Race Theory increase the probability that Democratic employees move to other districts, while Republican employees become more likely to remain in their current districts. Further, we find book ban adoptions drive profession exit among Democratic librarians. Interviews with current and former public school employees corroborate both channels, showing policy misalignment imposes costs even on educators whose own subject is not directly targeted. Our findings reveal how nationalized local political conflict can lead to durable partisan sorting in the bureaucracy. </details>
-		<a href="https://elisawirsching.github.io/research/teachersorting.pdf"><div class="color-button">pdf</div></a>
+		Paper available upon request 
 	</li><br>
 </ul>
 

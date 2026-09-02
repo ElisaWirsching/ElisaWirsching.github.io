@@ -8,7 +8,11 @@ Please contact me for syllabi or course materials.
 
 ## LSE
 
-<ul>
+<ul>  
+  <li>
+		<b>Policy Analysis and Policy Advice</b> (GV4F4)<br>
+	</li><br>
+  
   <li>
 		<b>Approaches and Issues in Public Policy and Administration</b> (GV4E9)<br>
 		<i>Course Convenor: Prof. Daniel Berliner</i>

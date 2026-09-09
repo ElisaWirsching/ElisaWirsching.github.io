@@ -55,6 +55,7 @@ layout: page
 <ul>
 	<li>
 		<b>The Limits of Merit: Career Pipelines and Representation in US Law Enforcement</b><br>
+		<i>R&R at the American Political Science Review</i><br>
 		<i style="color: #ac4142;">2024 Best Paper Award, APSA Urban and Local Politics Section</i><br>
 		<details>
     <summary>Abstract</summary>
@@ -77,6 +78,7 @@ how formally meritocratic institutions sustain unequal representation. </details
 	<li>
 		<b>The Political Consequences of Police Slowdowns</b><br>
 		<i>with <a href="https://www.arvindkrish.com/">Arvind Krishnamurthy</a> and <a href="https://www.dviryogev.com/">Dvir Yogev</a></i><br>
+		<i style="color: #ac4142;">2026 LPEC Best Poster Award</i><br>
 		<details>
     <summary>Abstract</summary>
 Police increasingly resist reform by strategically reducing service quality to shape

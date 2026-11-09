@@ -80,7 +80,7 @@ how formally meritocratic institutions sustain unequal representation. </details
 		<details>
     <summary>Abstract</summary>
 Social scientists increasingly estimate effects on unstructured data, such as open-ended responses, speeches or social media posts. Researchers face a tradeoff between capturing the multidimensional change in texts and describing it in interpretable terms. We propose SAE regression to combine both. It estimates the shift in the average document embedding, learns concepts with a sparse autoencoder (SAE), projects the shift onto the SAE's directions, and labels them with a large language model. It reports the movement along each direction and its share of the effect. In simulations, the estimates are unbiased, well calibrated and recover true concepts. Applied to a survey experiment on immigration and to congressional tweets after mass shootings, SAE regression captures the reasoning and rhetoric behind effects on text and outperforms existing methods, including the structural topic model. SAE regression thus makes multidimensional effects on text both measurable and interpretable.  </details>
-		<a href="https://elisawirsching.github.io/research/saereg.pdf"><div class="color-button">pdf</div></a>
+		<a href="https://elisawirsching.github.io/research/saereg.pdf"><div class="color-button">pdf</div></a><a href="https://github.com/ElisaWirsching/saereg"><div class="color-button">package</div></a>
 	</li><br>
 	
 	<li>
